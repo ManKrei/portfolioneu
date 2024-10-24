@@ -3,7 +3,7 @@ title: "Name"
 description: "A brief description of your resume"
 #baseurl: "" # leave empty
 #url: "https://ManKrei.github.io"
-theme: jekyll-devportfolio
+theme: minimal-mistakes-jekyll
 
 # Navigation settings
 navigation:
