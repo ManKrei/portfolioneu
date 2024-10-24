@@ -1,8 +1,8 @@
 # Site settings
 title: "Name"
 description: "A brief description of your resume"
-baseurl: "" # leave empty
-url: "https://ManKrei.github.io"
+#baseurl: "" # leave empty
+#url: "https://ManKrei.github.io"
 theme: jekyll-devportfolio
 
 # Navigation settings
@@ -18,8 +18,4 @@ navigation:
   - title: "Interests"
     url: "/interests"
 
-# Personal Information
-name: Your Name
-email: your.email@example.com
-github_username: your-github-username
-linkedin_username: your-linkedin-username
+
