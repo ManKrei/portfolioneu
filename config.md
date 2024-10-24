@@ -2,7 +2,7 @@
 title: "Name"
 description: "A brief description of your resume"
 baseurl: "" # leave empty
-url: "https://your-username.github.io"
+url: "https://ManKrei.github.io"
 
 # Navigation settings
 navigation:
